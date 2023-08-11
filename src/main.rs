@@ -1,1 +1,6 @@
+fn main()
+{
 
+  //nothing here!
+
+}
